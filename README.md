@@ -1,23 +1,35 @@
-# 🔩 Crane Hook – SolidWorks 3D Model
+# Crane Hook Design using SolidWorks
 
-A 3D CAD model of a Crane Hook designed using SolidWorks Design 2026 SP2.1.
+## Overview
+🔩 Excited to share my latest 3D CAD design — a Crane Hook modeled in SolidWorks!
+This part was built using a combination of advanced modeling techniques:
+✅ Loft feature – for the smooth, curved hook body
+✅ Dome feature – for the rounded tip geometry
+✅ Boss-Extrude – for the shank/stem section
+✅ Chamfer – for clean edge transitions at the threaded area
+✅ Helix/Thread – for the bolt thread on top
+Crane hooks are critical lifting components used in construction, manufacturing, and heavy industries. Designing them accurately in CAD ensures proper load analysis and safety validation before fabrication.
+This was modeled as part of my CAD practice journey using SolidWorks Design 2026 SP2.1.
+💡 Always excited to push my skills further in mechanical design and product development!
+#SolidWorks #CAD #MechanicalDesign #3DModeling #ProductDesign #Engineering #CraneHook #ManufacturingEngineering #LearnCAD #MechanicalEngineering.
 
-## 📸 Preview
-![Crane Hook](screenshot.png)
+## Software Used
+- SolidWorks 2026
 
-## 🛠️ Features Used
-| Feature | Purpose |
-|---|---|
-| Loft | Smooth curved hook body |
-| Dome | Rounded tip geometry |
-| Boss-Extrude | Upper shank/stem section |
-| Chamfer | Clean edge transitions |
-| Thread/Helix | Bolt thread on top |
+## Features
+- Smooth hook geometry
+- Threaded upper shaft
+- Chamfer finishing
+- Parametric 3D modeling
 
-## 🔧 Software
-- SolidWorks Design 2026 SP2.1 (Academic)
+## Preview
 
-## 📌 About
-Crane hooks are critical lifting components used in
-construction, manufacturing, and heavy industries.
-This model was created as part of my CAD learning journey.
+![Crane Hook](crane-hook.png)
+
+## Files Included
+- CraneHook.SLDPRT
+- CraneHook.STEP
+
+## Author
+Rupesh Chandrahas Mahale
+Mechanical Design Engineer
